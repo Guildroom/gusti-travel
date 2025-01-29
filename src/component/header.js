@@ -9,7 +9,7 @@ export default function Header() {
             <a className="block text-teal-600" href="#">
               <div className="flex gap-3 items-center">
                 <Image
-                  src="/Logo.png"
+                  src="/logo-white.png"
                   alt="Gusti Travel logo"
                   width={80}
                   height={80}
