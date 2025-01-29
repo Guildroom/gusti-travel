@@ -15,7 +15,9 @@ export default function Header() {
                   height={80}
                   priority
                 />
-                <div className=" text-3xl font-bold">Gusti Travel</div>
+                <div className=" text-3xl font-bold text-white">
+                  Gusti Travel
+                </div>
               </div>
             </a>
           </div>
@@ -25,7 +27,7 @@ export default function Header() {
               <ul className="flex items-center gap-6 text-sm">
                 <li>
                   <a
-                    className="text-gray-500 transition hover:text-gray-500/75"
+                    className="text-white transition hover:text-gray-500/75"
                     href="#"
                   >
                     {" "}
@@ -35,7 +37,7 @@ export default function Header() {
 
                 <li>
                   <a
-                    className="text-gray-500 transition hover:text-gray-500/75"
+                    className="text-white transition hover:text-gray-500/75"
                     href="#"
                   >
                     {" "}
@@ -45,7 +47,7 @@ export default function Header() {
 
                 <li>
                   <a
-                    className="text-gray-500 transition hover:text-gray-500/75"
+                    className="text-white transition hover:text-gray-500/75"
                     href="#"
                   >
                     {" "}
@@ -55,7 +57,7 @@ export default function Header() {
 
                 <li>
                   <a
-                    className="text-gray-500 transition hover:text-gray-500/75"
+                    className="text-white transition hover:text-gray-500/75"
                     href="#"
                   >
                     {" "}
@@ -65,7 +67,7 @@ export default function Header() {
 
                 <li>
                   <a
-                    className="text-gray-500 transition hover:text-gray-500/75"
+                    className="text-white transition hover:text-gray-500/75"
                     href="#"
                   >
                     {" "}
@@ -75,7 +77,7 @@ export default function Header() {
 
                 <li>
                   <a
-                    className="text-gray-500 transition hover:text-gray-500/75"
+                    className="text-white transition hover:text-gray-500/75"
                     href="#"
                   >
                     {" "}
