@@ -12,7 +12,7 @@ export default function DropdownWithCheckBox(props) {
     >
       <input
         className="active:border-none outline-0"
-        placeholder="Beside Package what activity you want to do"
+        placeholder="what activity you want to do"
       />
       {open ? (
         <div
